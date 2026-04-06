@@ -1,4 +1,4 @@
-I'm Greg Wallace and have worked as an open source advocate and community marketing and partnerships leader for some of the largest projects, including Node.js, FreeBSD, and Hyperledger. I am currently volunteering with the Open Regulatory Compliance Security Attestation project with the Eclipse Foundation.
+I have worked as an open source advocate and community marketing and partnerships leader for some of the largest projects, including Node.js, FreeBSD, and Hyperledger. I am currently volunteering with the Open Regulatory Compliance Security Attestation project with the Eclipse Foundation.
 
 I work at NetActuate as the Director of Parnerships and Open Source, where I coordinate our support for internet-critical projects including NTP Pool, CPAN, and FreeBSD. Previously, I worked at the FreeBSD Foundation, The Linux Foundation, and multiple mostly open source startups.
 
