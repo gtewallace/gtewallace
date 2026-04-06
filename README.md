@@ -17,12 +17,12 @@ LinkedIn: @gtewallace
 - Contributed to the **[Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)**, which outlines the proposed architecture for blockchain technologies. Led Marketing Committee, played key role in multi-level project branding, ran first-ever open source Community SWOT analysis in Singapore at 2017 Member Summit.
 
 ### FreeBSD
-- Played lead role in FreeBSD Community Surveys for 2024. These surveys are essential for assessing the community’s growth and direction.
+- Played lead role in the [FreeBSD Community Surveys 2024](https://freebsdfoundation.org/blog/results-from-the-2024-freebsd-community-survey-report/). These surveys are essential for assessing the community’s growth and direction.
 - Involved in the **FreeBSD Community SWOT Analysis 2023**, which uncovered the development community's views on the strengths, weaknesses, opportunities, and threats facing the FreeBSD community.
 - Increased corporate donations by 20%, increased number of corporate donors by 17%, secured two major grants/investments to increased overall income by 50%
 - Initiated FreeBSD Enterprise Working Group to identify and remove barriers to greater use of FreeBSD in the enterprise.
 
-## Links
-- [Node.js Community Surveys 2016-2018]((https://nodejs.org/static/documents/2016-survey-report.pdf))
-- [Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)
-- [FreeBSD Community Surveys 2024](https://freebsdfoundation.org/blog/results-from-the-2024-freebsd-community-survey-report/)
+## Talks
+- [EuroBSDCon 2025, Update on FreeBSD Enterprise WG]((https://www.youtube.com/live/c2E4H1HphIU?t=1852s))
+- [All Things Open 2025, Open Source-Powered And Developer-First AI Stack ](https://youtu.be/D63P-3-B_BM?si=370zAcRpxQ5EBLBY)
+- [FOSDEM 2026, Could Compliance Costs Sustain FOSS?](https://fosdem.org/2026/schedule/event/U9JFC8-sustaining-foss-a-panel-with/) 
