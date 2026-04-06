@@ -3,10 +3,9 @@ I have worked as an open source advocate and community marketing and partnership
 I work at NetActuate as the Director of Parnerships and Open Source, where I coordinate our support for internet-critical projects including NTP Pool, CPAN, and FreeBSD. Previously, I worked at the FreeBSD Foundation, The Linux Foundation, and multiple mostly open source startups.
 
 To contact me:
-
-Email: gtewallace@gmail.com
-Signal: gtew.57
-LinkedIn: @gtewallace
+- Email: gtewallace@gmail.com
+- Signal: gtew.57
+- LinkedIn: @gtewallace
 
 ## Contributions
 
