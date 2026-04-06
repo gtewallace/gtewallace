@@ -3,7 +3,7 @@
 ## Contributions
 
 ### Node.js
-- Played leading role in the Node.js Community Surveys from 2016-2018. These surveys help gather insights on the community's needs and preferences. You can find more about it on the official Node.js website. Also led the Marketing Committee and worked closely with community leaders, events, and PR teams. Helped organize and promote dozens of Node.js events. Launched Enterprise COnversations series on YouTube which drove fully earned coverage by Forrester Research.
+- Played leading role in the Node.js Community Surveys from 2016-2018. These surveys help gather insights on the community's needs and preferences. You can find more about it on the official Node.js website. Also led the Marketing Committee and worked closely with community leaders, events, and PR teams. Helped organize and promote dozens of Node.js events. Launched Enterprise Conversations series on YouTube which drove fully earned coverage by Forrester Research.
 
 ### Hyperledger
 - Contributed to the **[Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)**, which outlines the proposed architecture for blockchain technologies. Led Marketing Committee, played key role in multi-level project branding, ran first-ever Community SWOT analysis in Singapore at 2017 Member Summit
