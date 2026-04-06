@@ -11,10 +11,14 @@ LinkedIn: @gtewallace
 ## Contributions
 
 ### Node.js
-- Played leading role in the  **[Node.js Community Surveys](https://nodejs.org/static/documents/2016-survey-report.pdf)** from 2016-2018. These surveys help gather insights on the community's needs and preferences. Also led the Marketing Committee and worked closely with community leaders, events, and PR teams. Helped organize and promote dozens of Node.js events. Launched [Enterprise Conversations](https://youtube.com/playlist?list=PLfMzBWSH11xYNeUJXap4NTMX3TFtH-_0z&si=JfZKKMry_BguKNMM) series on YouTube which drove **fully earned coverage by [Forrester Research](https://www.forrester.com/report/Digital-Transformation-Using-Nodejs/RES135952)**.
+- Played leading role in the  **[Node.js Community Surveys](https://nodejs.org/static/documents/2016-survey-report.pdf)** from 2016-2018. These surveys help gather insights on the community's needs and preferences.
+- Also led the Marketing Committee and worked closely with community leaders, events, and PR teams.
+- Helped organize and promote dozens of Node.js events.
+- Launched [Enterprise Conversations](https://youtube.com/playlist?list=PLfMzBWSH11xYNeUJXap4NTMX3TFtH-_0z&si=JfZKKMry_BguKNMM) series on YouTube which drove **fully earned coverage by [Forrester Research](https://www.forrester.com/report/Digital-Transformation-Using-Nodejs/RES135952)**.
 
 ### Hyperledger
-- Contributed to the **[Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)**, which outlines the proposed architecture for blockchain technologies. Led Marketing Committee, played key role in multi-level project branding, ran first-ever open source Community SWOT analysis in Singapore at 2017 Member Summit.
+- Contributed to the **[Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)**, which outlines the proposed architecture for blockchain technologies.
+- Led Marketing Committee, played key role in multi-level project branding, ran first-ever open source Community SWOT analysis in Singapore at 2017 Member Summit.
 
 ### FreeBSD
 - Played lead role in the [FreeBSD Community Surveys 2024](https://freebsdfoundation.org/blog/results-from-the-2024-freebsd-community-survey-report/). These surveys are essential for assessing the community’s growth and direction.
