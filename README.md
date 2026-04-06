@@ -5,7 +5,7 @@ I work at NetActuate as the Director of Parnerships and Open Source, where I coo
 To contact me:
 
 Email: gtewallace@gmail.com
-Signal: littledan.73
+Signal: gtew.57
 LinkedIn: @gtewallace
 
 ## Contributions
